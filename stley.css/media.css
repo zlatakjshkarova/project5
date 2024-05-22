@@ -1,0 +1,10 @@
+@media(max-width:1189px) {
+
+    .Garden {
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+}
